@@ -9,6 +9,7 @@ import Auth from './Auth';
 import Logout from './Logout';
 import PostCreate from './posts/PostCreate';
 
+
 class App extends React.Component {
     state = { logedIn: false };
 
